@@ -1,0 +1,3 @@
+[submodule "papers/Explore-to-Evolve/WebAggregator"]
+	path = papers/Explore-to-Evolve/WebAggregator
+	url = git@github.com:Tencent/WebAggregator.git
